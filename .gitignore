@@ -104,3 +104,4 @@ ENV/
 # editor and project files
 .idea/
 .vscode/
+Pipfile.lock
